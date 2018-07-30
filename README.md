@@ -8,7 +8,7 @@ node liri.js <strong>my-tweets</strong>
 
 This will show your last 20 tweets and when they were created at in your terminal/bash window.
 
-node liri.js <strong>spotify-this-song</strong> '<song name here>'
+node liri.js <strong>spotify-this-song</strong> "song-name"
 
 This will show the following information about the song in your terminal/bash window
 
@@ -18,7 +18,7 @@ This will show the following information about the song in your terminal/bash wi
 -The album that the song is from
 *If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-node liri.js <strong>movie-this</strong> '<movie name here>'
+node liri.js <strong>movie-this</strong> "movie-name"
 
 This will output the following information to your terminal/bash window:
 
